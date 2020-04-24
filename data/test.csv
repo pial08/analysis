@@ -1,0 +1,40 @@
+text,labels
+android location Address get Address Line,zip code
+android bluetooth Bluetooth Class get Device Class,bluetooth settings
+android telephony Sms Message get Display Message Body,sms messages
+android net Network Info get Type,network type
+android net wifi Wifi Manager get Dhcp Info,ip address
+android net wifi Wifi Manager get Wifi State,wi-fi access point information
+android text format Time get Current Timezone,time zone
+android accounts Account Manager get User Data,users internet protocol
+android net Network Info get Type,telecommunications carrier information
+android test mock Mock Context check Permission,operating system information
+android location Location Manager get Providers,gps
+android net Network Info get State,network measurements
+android net wifi Wifi Manager get Connection Info,ip address
+android net Network Info get Subtype,network type
+android telephony Telephony Manager get Device Id,udid
+android location Address get Country Name,country
+android content pm Package Manager get Installed Packages,installed applications
+android telephony Sms Message get Display Message Body,text messages
+android accounts Account Manager get User Data,chat histories
+android net wifi Wifi Manager get Dhcp Info,domain servers
+android content pm Package Manager get Installed Applications,installed applications
+android telephony Telephony Manager get Network Country Iso,carrier network
+android net wifi Wifi Manager get Connection Info,wifi signal strength
+android bluetooth Bluetooth Adapter get Bonded Devices,bluetooth settings
+android content Context Wrapper open File Input,files
+android view Input Device get Descriptor,device characteristics
+android location Geocoder get From Location Name,location tags
+android telephony Sms Message get Originating Address,phone number
+android hardware input Input Manager get Input Device Ids,peripherals
+android bluetooth Bluetooth Device get Name,bluetooth settings
+android hardware Sensor Manager get Default Sensor,sensors
+android telephony Telephony Manager get Sim State,telecommunications carrier information
+android bluetooth Bluetooth Class get Major Device Class,bluetooth settings
+android net wifi Wifi Info get Rssi,wi-fi access point information
+android telephony Sms Message get Message Body,chat text
+android net Network Info get Subtype Name,network protocol
+android location Location Manager request Single Update,location
+android app Searchable Info get Voice Language Mode Id,mobile device language setting
+android telephony Telephony Manager get Sim Country Iso,location tags

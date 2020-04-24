@@ -1,0 +1,195 @@
+text,labels
+android location Address get Admin Area,location tags
+android location Location get Altitude,gps information
+android accounts Account Manager get User Data,address book
+android content pm Package Manager get Service Info,application information
+android content pm Package Manager get Application Info,application software
+android test mock Mock Package Manager get Application Info,application software
+android webkit Web Settings get Default User Agent,application version number
+android telephony Telephony Manager get Neighboring Cell Info,area code
+android bluetooth Bluetooth Adapter get State,bluetooth settings
+android bluetooth Bluetooth Adapter is Enabled,bluetooth settings
+android bluetooth Bluetooth Class get Device Class,bluetooth settings
+android bluetooth Bluetooth Class get Major Device Class,bluetooth settings
+android bluetooth Bluetooth Device get Bluetooth Class,bluetooth settings
+android bluetooth Bluetooth Device get Name,bluetooth settings
+android bluetooth Bluetooth Adapter get Address,bluetooth settings
+android bluetooth Bluetooth Adapter get Bonded Devices,bluetooth settings
+android webkit Web Settings get Default User Agent,browser language
+android webkit Web Settings get User Agent String,browser type
+android webkit Web Settings get Default User Agent,browser type
+android accounts Account Manager get User Data,calendar entries
+android location Location Manager get Best Provider,carrier network
+android telephony Telephony Manager get Neighboring Cell Info,carrier network
+android location Location Manager get Provider,carrier network
+android location Location Manager get Providers,carrier network
+android telephony Telephony Manager get Network Operator,carrier network
+android telephony Telephony Manager get Network Country Iso,carrier network
+android telephony Telephony Manager get Sim Operator,carrier network
+android location Location Manager get Best Provider,cell towers
+android telephony Telephony Manager get Neighboring Cell Info,cell towers
+android telephony Telephony Manager get Cell Location,cell towers
+android location Location Manager get Provider,cell towers
+android location Location Manager get Providers,cell towers
+android accounts Account Manager get User Data,chat histories
+android telephony Sms Message get Display Message Body,chat text
+android telephony Sms Message get Message Body,chat text
+android net Mail To get Cc,contacts
+android net Mail To get To,contacts
+android webkit Cookie Manager get Cookie,cookies
+android location Address get Country Code,country
+android telephony Telephony Manager get Sim Country Iso,country
+android location Address get Country Name,country
+android app backup Backup Data Input read Entity Data,data
+android view Input Device get Motion Ranges,device capability
+android view Input Device get Motion Ranges,device characteristics
+android view Input Device get Descriptor,device characteristics
+android content pm Package Manager get System Available Features,device characteristics
+android test mock Mock Package Manager get System Available Features,device characteristics
+android view Input Event get Device Id,device id
+android view Key Event get Device Id,device id
+android view Motion Event get Device Id,device id
+android hardware input Input Manager get Input Device,device information
+android view Input Device get Name,device name
+android app Activity Manager get Device Configuration Info,devices hardware
+android net wifi Wifi Manager get Dhcp Info,domain servers
+android net wifi Wifi Manager get Connection Info,domain servers
+android content Context open File Input,files
+android content Context Wrapper open File Input,files
+android test mock Mock Context open File Input,files
+android test Renaming Delegating Context open File Input,files
+android location Location Manager get Best Provider,gps
+android location Location Manager get Provider,gps
+android location Location Manager get Providers,gps
+android location Location get Bearing,gps information
+android location Location Provider get Accuracy,gps information
+android location Location get Accuracy,gps information
+android location Location get Speed,gps information
+android hardware input Input Manager get Input Device Ids,hardware device id
+android os Build get Radio Version,hardware information
+android app Activity Manager get Device Configuration Info,hardware settings
+android location Location distance To,high-level geographic information
+android telephony Telephony Manager get Device Id,imei
+android content pm Package Manager get Installed Applications,installed applications
+android test mock Mock Package Manager get Installed Applications,installed applications
+android content pm Package Manager get Installed Packages,installed applications
+android test mock Mock Package Manager get Installed Packages,installed applications
+android content pm Package Manager get Packages For Uid,installed applications
+android test mock Mock Package Manager get Packages For Uid,installed applications
+android net wifi Wifi Manager get Dhcp Info,ip address
+android net wifi Wifi Manager get Connection Info,ip address
+android location Location get Latitude,latitude
+android location Location Manager request Location Updates,location
+android location Location Manager request Location Updates,location
+android location Location Manager request Location Updates,location
+android location Location Manager request Location Updates,location
+android location Location Manager request Single Update,location
+android location Location Manager request Single Update,location
+android location Location Manager request Single Update,location
+android location Location Manager request Single Update,location
+android location Location distance To,location information
+android location Address get Country Code,location tags
+android telephony Telephony Manager get Sim Country Iso,location tags
+android location Address get Address Line,location tags
+android location Address get Locality,location tags
+android location Geocoder get From Location Name,location tags
+android location Location get Longitude,longitude
+android location Location set Longitude,longitude
+android telephony Telephony Manager get Network Operator,mcc
+android telephony Telephony Manager get Network Country Iso,mcc
+android telephony Telephony Manager get Sim Operator,mcc
+android telephony Telephony Manager get Sim Serial Number,mobile device id
+android app Activity Manager get Device Configuration Info,mobile device language setting
+android view Key Character Map load,mobile device language setting
+android app Searchable Info get Voice Language Id,mobile device language setting
+android app Searchable Info get Voice Language Mode Id,mobile device language setting
+android telephony Telephony Manager get Phone Type,mobile device type
+android telephony Telephony Manager get Phone Type,mobile phone model
+android telephony Telephony Manager get Sim Operator Name,mobile service carrier name
+android net Connectivity Manager is Active Network Metered,network information
+android net Network Info get Extra Info,network information
+android telephony Telephony Manager get Neighboring Cell Info,network measurements
+android net Network Info get State,network measurements
+android net Connectivity Manager get Active Network Info,network measurements
+android net Connectivity Manager is Active Network Metered,network measurements
+android net Network Info get Detailed State,network measurements
+android net Connectivity Manager get Network Info,network measurements
+android net Connectivity Manager get Network Info,network measurements
+android net Connectivity Manager get All Network Info,network measurements
+android telephony Telephony Manager get Sim State,network measurements
+android net wifi Wifi Manager get Connection Info,network measurements
+android telephony Telephony Manager get Neighboring Cell Info,network protocol
+android net Network Info get Subtype Name,network protocol
+android net Network Info get Subtype,network protocol
+android net Network Info get Type,network protocol
+android net Network Info get Type Name,network protocol
+android telephony Telephony Manager get Data Activity,network type
+android net Network Info get Subtype Name,network type
+android net Network Info get Subtype,network type
+android net Network Info get Type,network type
+android net Network Info get Type Name,network type
+android content pm Package Manager query Permissions By Group,operating system information
+android test mock Mock Package Manager query Permissions By Group,operating system information
+android content Context check Permission,operating system information
+android content Context Wrapper check Permission,operating system information
+android test mock Mock Context check Permission,operating system information
+android content pm Package Manager get Service Info,operating system information
+android hardware input Input Manager get Input Device Ids,peripherals
+android telephony Telephony Manager get Line1 Number,phone number
+android telephony Sms Message get Originating Address,phone number
+android accounts Account Manager get User Data,phone number
+android location Address get Postal Code,postal code
+android accounts Account Manager get User Data,preferred language
+android location Location Manager get Last Known Location,real-time location-based information
+android webkit Web View get Original Url,referral url
+android hardware Sensor Manager get Default Sensor,sensors
+android hardware Sensor Manager get Default Sensor,sensors
+android hardware Sensor Manager register Listener,sensors
+android telephony Telephony Manager get Data Activity,service usage details
+android telephony Sms Message get Display Message Body,sms messages
+android telephony Sms Message get Message Body,sms messages
+android location Geocoder get From Location Name,specifc location data
+android location Geocoder get From Location Name,specific geolocation
+android net Network Info get Subtype Name,telecommunications carrier information
+android net Network Info is Roaming,telecommunications carrier information
+android telephony Service State get Roaming,telecommunications carrier information
+android telephony Telephony Manager is Network Roaming,telecommunications carrier information
+android net Network Info get Subtype,telecommunications carrier information
+android net Network Info get Type,telecommunications carrier information
+android telephony Telephony Manager get Sim State,telecommunications carrier information
+android telephony Service State get State,telecommunications carrier information
+android telephony Sms Message get Display Message Body,text messages
+android telephony Sms Message get Message Body,text messages
+android location Location get Time,time
+android text format Time get Current Timezone,time zone
+android telephony Telephony Manager get Device Id,udid
+android content pm Package Manager get Application Info,unique application number
+android test mock Mock Package Manager get Application Info,unique application number
+android telephony Telephony Manager get Device Id,unique device id
+android telephony Telephony Manager get Subscriber Id,unique device id
+android webkit Web View get Original Url,url
+android net Mail To get Cc,url
+android net Mail To get To,url
+android net Mail To get Body,url
+android net Mail To get Headers,url
+android os Environment get Data Directory,user content
+android accounts Account Manager get User Data,user content
+android app admin Device Policy Manager get Active Admins,user information
+android support v4 view accessibility Accessibility Record Compat is Password,user information
+android view accessibility Accessibility Record is Password,user information
+android accounts Account Manager get User Data,users internet protocol
+android net wifi Wifi Info get BSSID,wi-fi access point information
+android net wifi Wifi Manager get Connection Info,wi-fi access point information
+android net wifi Wifi Manager get Wifi State,wi-fi access point information
+android net wifi Wifi Info get Link Speed,wi-fi access point information
+android net wifi Wifi Info get Network Id,wi-fi access point information
+android net wifi Wifi Manager get Configured Networks,wi-fi access point information
+android net wifi Wifi Info get Rssi,wi-fi access point information
+android net wifi Wifi Info get SSID,wi-fi access point information
+android net wifi Wifi Manager get Scan Results,wi-fi access points
+android net wifi Wifi Manager get Connection Info,wifi signal strength
+android net wifi Wifi Info get Link Speed,wifi signal strength
+android net wifi Wifi Info get Rssi,wifi signal strength
+android location Address get Address Line,zip code
+android location Address get Locality,zip code
+android location Geocoder get From Location Name,zip code

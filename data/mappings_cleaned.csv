@@ -1,0 +1,195 @@
+text,labels
+android.location.Address.getAdminArea,location tags
+android.location.Location.getAltitude,gps information
+android.accounts.AccountManager.getUserData,address book
+android.content.pm.PackageManager.getServiceInfo,application information
+android.content.pm.PackageManager.getApplicationInfo,application software
+android.test.mock.MockPackageManager.getApplicationInfo,application software
+android.webkit.WebSettings.getDefaultUserAgent,application version number
+android.telephony.TelephonyManager.getNeighboringCellInfo,area code
+android.bluetooth.BluetoothAdapter.getState,bluetooth settings
+android.bluetooth.BluetoothAdapter.isEnabled,bluetooth settings
+android.bluetooth.BluetoothClass.getDeviceClass,bluetooth settings
+android.bluetooth.BluetoothClass.getMajorDeviceClass,bluetooth settings
+android.bluetooth.BluetoothDevice.getBluetoothClass,bluetooth settings
+android.bluetooth.BluetoothDevice.getName,bluetooth settings
+android.bluetooth.BluetoothAdapter.getAddress,bluetooth settings
+android.bluetooth.BluetoothAdapter.getBondedDevices,bluetooth settings
+android.webkit.WebSettings.getDefaultUserAgent,browser language
+android.webkit.WebSettings.getUserAgentString,browser type
+android.webkit.WebSettings.getDefaultUserAgent,browser type
+android.accounts.AccountManager.getUserData,calendar entries
+android.location.LocationManager.getBestProvider,carrier network
+android.telephony.TelephonyManager.getNeighboringCellInfo,carrier network
+android.location.LocationManager.getProvider,carrier network
+android.location.LocationManager.getProviders,carrier network
+android.telephony.TelephonyManager.getNetworkOperator,carrier network
+android.telephony.TelephonyManager.getNetworkCountryIso,carrier network
+android.telephony.TelephonyManager.getSimOperator,carrier network
+android.location.LocationManager.getBestProvider,cell towers
+android.telephony.TelephonyManager.getNeighboringCellInfo,cell towers
+android.telephony.TelephonyManager.getCellLocation,cell towers
+android.location.LocationManager.getProvider,cell towers
+android.location.LocationManager.getProviders,cell towers
+android.accounts.AccountManager.getUserData,chat histories
+android.telephony.SmsMessage.getDisplayMessageBody,chat text
+android.telephony.SmsMessage.getMessageBody,chat text
+android.net.MailTo.getCc,contacts
+android.net.MailTo.getTo,contacts
+android.webkit.CookieManager.getCookie,cookies
+android.location.Address.getCountryCode,country
+android.telephony.TelephonyManager.getSimCountryIso,country
+android.location.Address.getCountryName,country
+android.app.backup.BackupDataInput.readEntityData,data
+android.view.InputDevice.getMotionRanges,device capability
+android.view.InputDevice.getMotionRanges,device characteristics
+android.view.InputDevice.getDescriptor,device characteristics
+android.content.pm.PackageManager.getSystemAvailableFeatures,device characteristics
+android.test.mock.MockPackageManager.getSystemAvailableFeatures,device characteristics
+android.view.InputEvent.getDeviceId,device id
+android.view.KeyEvent.getDeviceId,device id
+android.view.MotionEvent.getDeviceId,device id
+android.hardware.input.InputManager.getInputDevice,device information
+android.view.InputDevice.getName,device name
+android.app.ActivityManager.getDeviceConfigurationInfo,devices hardware
+android.net.wifi.WifiManager.getDhcpInfo,domain servers
+android.net.wifi.WifiManager.getConnectionInfo,domain servers
+android.content.Context.openFileInput,files
+android.content.ContextWrapper.openFileInput,files
+android.test.mock.MockContext.openFileInput,files
+android.test.RenamingDelegatingContext.openFileInput,files
+android.location.LocationManager.getBestProvider,gps
+android.location.LocationManager.getProvider,gps
+android.location.LocationManager.getProviders,gps
+android.location.Location.getBearing,gps information
+android.location.LocationProvider.getAccuracy,gps information
+android.location.Location.getAccuracy,gps information
+android.location.Location.getSpeed,gps information
+android.hardware.input.InputManager.getInputDeviceIds,hardware device id
+android.os.Build.getRadioVersion,hardware information
+android.app.ActivityManager.getDeviceConfigurationInfo,hardware settings
+android.location.Location.distanceTo,high-level geographic information
+android.telephony.TelephonyManager.getDeviceId,imei
+android.content.pm.PackageManager.getInstalledApplications,installed applications
+android.test.mock.MockPackageManager.getInstalledApplications,installed applications
+android.content.pm.PackageManager.getInstalledPackages,installed applications
+android.test.mock.MockPackageManager.getInstalledPackages,installed applications
+android.content.pm.PackageManager.getPackagesForUid,installed applications
+android.test.mock.MockPackageManager.getPackagesForUid,installed applications
+android.net.wifi.WifiManager.getDhcpInfo,ip address
+android.net.wifi.WifiManager.getConnectionInfo,ip address
+android.location.Location.getLatitude,latitude
+android.location.LocationManager.requestLocationUpdates,location
+android.location.LocationManager.requestLocationUpdates,location
+android.location.LocationManager.requestLocationUpdates,location
+android.location.LocationManager.requestLocationUpdates,location
+android.location.LocationManager.requestSingleUpdate,location
+android.location.LocationManager.requestSingleUpdate,location
+android.location.LocationManager.requestSingleUpdate,location
+android.location.LocationManager.requestSingleUpdate,location
+android.location.Location.distanceTo,location information
+android.location.Address.getCountryCode,location tags
+android.telephony.TelephonyManager.getSimCountryIso,location tags
+android.location.Address.getAddressLine,location tags
+android.location.Address.getLocality,location tags
+android.location.Geocoder.getFromLocationName,location tags
+android.location.Location.getLongitude,longitude
+android.location.Location.setLongitude,longitude
+android.telephony.TelephonyManager.getNetworkOperator,mcc
+android.telephony.TelephonyManager.getNetworkCountryIso,mcc
+android.telephony.TelephonyManager.getSimOperator,mcc
+android.telephony.TelephonyManager.getSimSerialNumber,mobile device id
+android.app.ActivityManager.getDeviceConfigurationInfo,mobile device language setting
+android.view.KeyCharacterMap.load,mobile device language setting
+android.app.SearchableInfo.getVoiceLanguageId,mobile device language setting
+android.app.SearchableInfo.getVoiceLanguageModeId,mobile device language setting
+android.telephony.TelephonyManager.getPhoneType,mobile device type
+android.telephony.TelephonyManager.getPhoneType,mobile phone model
+android.telephony.TelephonyManager.getSimOperatorName,mobile service carrier name
+android.net.ConnectivityManager.isActiveNetworkMetered,network information
+android.net.NetworkInfo.getExtraInfo,network information
+android.telephony.TelephonyManager.getNeighboringCellInfo,network measurements
+android.net.NetworkInfo.getState,network measurements
+android.net.ConnectivityManager.getActiveNetworkInfo,network measurements
+android.net.ConnectivityManager.isActiveNetworkMetered,network measurements
+android.net.NetworkInfo.getDetailedState,network measurements
+android.net.ConnectivityManager.getNetworkInfo,network measurements
+android.net.ConnectivityManager.getNetworkInfo,network measurements
+android.net.ConnectivityManager.getAllNetworkInfo,network measurements
+android.telephony.TelephonyManager.getSimState,network measurements
+android.net.wifi.WifiManager.getConnectionInfo,network measurements
+android.telephony.TelephonyManager.getNeighboringCellInfo,network protocol
+android.net.NetworkInfo.getSubtypeName,network protocol
+android.net.NetworkInfo.getSubtype,network protocol
+android.net.NetworkInfo.getType,network protocol
+android.net.NetworkInfo.getTypeName,network protocol
+android.telephony.TelephonyManager.getDataActivity,network type
+android.net.NetworkInfo.getSubtypeName,network type
+android.net.NetworkInfo.getSubtype,network type
+android.net.NetworkInfo.getType,network type
+android.net.NetworkInfo.getTypeName,network type
+android.content.pm.PackageManager.queryPermissionsByGroup,operating system information
+android.test.mock.MockPackageManager.queryPermissionsByGroup,operating system information
+android.content.Context.checkPermission,operating system information
+android.content.ContextWrapper.checkPermission,operating system information
+android.test.mock.MockContext.checkPermission,operating system information
+android.content.pm.PackageManager.getServiceInfo,operating system information
+android.hardware.input.InputManager.getInputDeviceIds,peripherals
+android.telephony.TelephonyManager.getLine1Number,phone number
+android.telephony.SmsMessage.getOriginatingAddress,phone number
+android.accounts.AccountManager.getUserData,phone number
+android.location.Address.getPostalCode,postal code
+android.accounts.AccountManager.getUserData,preferred language
+android.location.LocationManager.getLastKnownLocation,real-time location-based information
+android.webkit.WebView.getOriginalUrl,referral url
+android.hardware.SensorManager.getDefaultSensor,sensors
+android.hardware.SensorManager.getDefaultSensor,sensors
+android.hardware.SensorManager.registerListener,sensors
+android.telephony.TelephonyManager.getDataActivity,service usage details
+android.telephony.SmsMessage.getDisplayMessageBody,sms messages
+android.telephony.SmsMessage.getMessageBody,sms messages
+android.location.Geocoder.getFromLocationName,specifc location data
+android.location.Geocoder.getFromLocationName,specific geolocation
+android.net.NetworkInfo.getSubtypeName,telecommunications carrier information
+android.net.NetworkInfo.isRoaming,telecommunications carrier information
+android.telephony.ServiceState.getRoaming,telecommunications carrier information
+android.telephony.TelephonyManager.isNetworkRoaming,telecommunications carrier information
+android.net.NetworkInfo.getSubtype,telecommunications carrier information
+android.net.NetworkInfo.getType,telecommunications carrier information
+android.telephony.TelephonyManager.getSimState,telecommunications carrier information
+android.telephony.ServiceState.getState,telecommunications carrier information
+android.telephony.SmsMessage.getDisplayMessageBody,text messages
+android.telephony.SmsMessage.getMessageBody,text messages
+android.location.Location.getTime,time
+android.text.format.Time.getCurrentTimezone,time zone
+android.telephony.TelephonyManager.getDeviceId,udid
+android.content.pm.PackageManager.getApplicationInfo,unique application number
+android.test.mock.MockPackageManager.getApplicationInfo,unique application number
+android.telephony.TelephonyManager.getDeviceId,unique device id
+android.telephony.TelephonyManager.getSubscriberId,unique device id
+android.webkit.WebView.getOriginalUrl,url
+android.net.MailTo.getCc,url
+android.net.MailTo.getTo,url
+android.net.MailTo.getBody,url
+android.net.MailTo.getHeaders,url
+android.os.Environment.getDataDirectory,user content
+android.accounts.AccountManager.getUserData,user content
+android.app.admin.DevicePolicyManager.getActiveAdmins,user information
+android.support.v4.view.accessibility.AccessibilityRecordCompat.isPassword,user information
+android.view.accessibility.AccessibilityRecord.isPassword,user information
+android.accounts.AccountManager.getUserData,users internet protocol
+android.net.wifi.WifiInfo.getBSSID,wi-fi access point information
+android.net.wifi.WifiManager.getConnectionInfo,wi-fi access point information
+android.net.wifi.WifiManager.getWifiState,wi-fi access point information
+android.net.wifi.WifiInfo.getLinkSpeed,wi-fi access point information
+android.net.wifi.WifiInfo.getNetworkId,wi-fi access point information
+android.net.wifi.WifiManager.getConfiguredNetworks,wi-fi access point information
+android.net.wifi.WifiInfo.getRssi,wi-fi access point information
+android.net.wifi.WifiInfo.getSSID,wi-fi access point information
+android.net.wifi.WifiManager.getScanResults,wi-fi access points
+android.net.wifi.WifiManager.getConnectionInfo,wifi signal strength
+android.net.wifi.WifiInfo.getLinkSpeed,wifi signal strength
+android.net.wifi.WifiInfo.getRssi,wifi signal strength
+android.location.Address.getAddressLine,zip code
+android.location.Address.getLocality,zip code
+android.location.Geocoder.getFromLocationName,zip code
